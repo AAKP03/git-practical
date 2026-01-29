@@ -1,3 +1,3 @@
 "Initial content" 
 
-Content from branch B
+Content from branch B and branch A resolved
